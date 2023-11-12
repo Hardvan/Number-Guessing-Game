@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="title">Guess The Number!</string>
+    <string name="prompt">Enter a number (1-100)</string>
+    <string name="number">1</string>
+    <string name="hint">Hint</string>
+    <string name="roundno">Let\'s Begin!</string>
+    <string name="prompt_text">Enter a number (1-100)</string>
+    <string name="submit">Submit</string>
+</resources>
